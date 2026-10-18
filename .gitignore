@@ -1,0 +1,21 @@
+
+# Local credentials and configuration
+*.local.properties
+.env
+.env.*
+!.env.example
+
+# Maven build output
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
