@@ -1,4 +1,4 @@
-# MHT-CET College Finder — repaired desktop build
+# MHT-CET College Finder 
 
 Java 21, Swing, Maven and MySQL. This is still the desktop application; no web conversion is included.
 
